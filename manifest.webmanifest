@@ -1,0 +1,1 @@
+{"name":"Vite PWA","short_name":"PWA App","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"A good app, look forward to it","theme_color":"#ffffff","icons":[{"src":"./public/logo.png","sizes":"1024x1024","type":"image/png"}]}
